@@ -1,5 +1,5 @@
 # Creates a list of numbers that pass the luhn test and outputs to a text file
-# Cool! But you don't need it :()
+# Cool! But you don't need it :(
 
 import sys
 
